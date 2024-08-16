@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>BlackJack Tournament Player</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
 
 <h2> 🤳 Connect with me:</h2>
 
