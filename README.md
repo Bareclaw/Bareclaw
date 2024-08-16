@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>BlackJack Tournament Player</b>
-  - [Praciting DS & Algos in Python]()
+  - [BlackJack Tournament Player](https://github.com/Bareclaw/BlackJack-Tournament-Player/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
